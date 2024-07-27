@@ -7,7 +7,7 @@ index 6986591..d8f1de0 100644
  top_srcdir = @top_srcdir@
  include_HEADERS = libcob.h
 -SUBDIRS = . lib libcob bin cobc config copy po extras doc tests
-+SUBDIRS = . lib libcob bin cobc config copy po extras
++SUBDIRS = . lib libcob bin cobc config copy po extras 
  BUILT_SOURCES = tarstamp.h
  ACLOCAL_AMFLAGS = -I m4 --install
  # CLEANFILES = $(bin_SCRIPTS)
