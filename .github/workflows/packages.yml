@@ -6,7 +6,7 @@ on:
     - master
     - dev
     - 'dev/**'
-    - 'github-libdb'
+    - 'gnucobol-libdb'
     paths:
     - 'packages/**'
     - 'root-packages/**'
