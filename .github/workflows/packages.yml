@@ -6,6 +6,7 @@ on:
     - master
     - dev
     - 'dev/**'
+    - 'github-libdb'
     paths:
     - 'packages/**'
     - 'root-packages/**'
